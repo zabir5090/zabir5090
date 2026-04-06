@@ -1,0 +1,1 @@
+import{g as t}from"./index.DDlvirwQ.js";const o=t.timeline({defaults:{ease:"power4.out"}});o.fromTo(".hero-item",{y:50,opacity:0,rotationX:-20},{y:0,opacity:1,rotationX:0,duration:1.2,stagger:.2,delay:.2});
